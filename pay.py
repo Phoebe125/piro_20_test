@@ -1,1 +1,2 @@
-print("This code for pay")
+def explain_code():
+    print("This code for pay")
