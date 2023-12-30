@@ -1,3 +1,3 @@
 def cart():
-    print()
+    print("찐 cart3")
     return 
